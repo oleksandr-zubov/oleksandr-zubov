@@ -11,8 +11,8 @@ I'm a Software developer with over 10 years of hands-on experience in web develo
 [![CSS Badge](https://img.shields.io/badge/-Css-2965f1?style=for-the-badge&labelColor=black&logo=css3&logoColor=2965f1)](#) 
 
 #### Contact me:
-+ 🔗 [LinkedIn](https://www.linkedin.com/in/oleksandr-zubov/)
-+ ✉️ zubov.mailbox@gmail.com
+[![Linkedin Badge](https://img.shields.io/badge/-Oleksandr_Zubov-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oleksandr-zubov/)
+[![Mail Badge](https://img.shields.io/badge/-Oleksandr_Zubov-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:zubov.mailbox@gmail.com)
 
 <!--
 ### Hi there 👋
