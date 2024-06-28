@@ -1,6 +1,6 @@
 ### Hello, this is Oleksandr speaking
 
-I'm a Software developer with over 10 years of hands-on experience in web development. Primarily a front-end developer, positioning myself as a capable software developer who is enthusiastic to take on new problems.
+I'm a skilled Web developer with close to two decades of practical experience in web development, proficient in React, Redux, JavaScript, Typescript, HTML, CSS, Sass/Less, Bootstrap, PHP, SQL, and more.  Primarily a front-end developer, I am positioning myself as a capable software developer who is enthusiastic to take on new problems.
 
 #### Specializations
 
