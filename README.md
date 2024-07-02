@@ -1,12 +1,13 @@
 ### Hello, this is Oleksandr speaking
 
-I'm a skilled Web developer with close to two decades of practical experience in web development, proficient in React, Redux, JavaScript, Typescript, HTML, CSS, Sass/Less, Bootstrap, PHP, SQL, and more.  Primarily a front-end developer, I am positioning myself as a capable software developer who is enthusiastic to take on new problems.
+I'm a skilled Web developer with close to two decades of practical experience in web development, proficient in React, Redux, JavaScript, TypeScript, HTML5, CSS3 (Sass, Less), Bootstrap, PHP, SQL, and more.  Primarily a front-end developer, I am positioning myself as a capable software developer who is enthusiastic to take on new problems.
+Reliable and collaborative, driven to build productive relationships with clients and colleagues. Eager to learn and contribute in any way possible.
 
 #### Specializations
 
+[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) 
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) 
 [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) 
-[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) 
 [![HTML Badge](https://img.shields.io/badge/-Html-F06529?style=for-the-badge&labelColor=black&logo=html5&logoColor=F06529)](#) 
 [![CSS Badge](https://img.shields.io/badge/-Css-2965f1?style=for-the-badge&labelColor=black&logo=css3&logoColor=2965f1)](#) 
 [![PHP Badge](https://img.shields.io/badge/-Php-8993be?style=for-the-badge&labelColor=black&logo=php&logoColor=8993be)](#) 
