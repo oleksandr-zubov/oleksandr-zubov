@@ -6,6 +6,8 @@ Primarily a front-end developer, I am positioning myself as a capable software d
 
 Reliable and collaborative, driven to build productive relationships with clients and colleagues. Eager to learn and contribute in any way possible.
 
+Active and engaged in contributing beyond core responsibilities by going the extra mile.
+
 #### Specializations
 
 [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) 
