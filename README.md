@@ -1,6 +1,6 @@
 ### Hello, this is Oleksandr speaking
 
-I'm a skilled Web developer with close to two decades of practical experience in web development, proficient in React, Redux, JavaScript, TypeScript, HTML5, CSS3 (Sass, Less), Bootstrap, PHP, SQL, and more.  
+I'm a Web developer with close to two decades of practical experience in web development, proficient in React, Redux, JavaScript, TypeScript, HTML5, CSS3 (Sass, Less), Bootstrap, PHP, SQL, and more.  
 
 Primarily a front-end developer, I am positioning myself as a capable software developer who is enthusiastic to take on new problems.
 
