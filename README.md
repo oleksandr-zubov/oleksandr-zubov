@@ -2,11 +2,15 @@
 
 I'm a Web developer with nearly two decades of practical experience in web development, delivering, and maintaining projects where quality and stability are the priority. 
 
-Primarily a front-end developer, I am positioning myself as a capable software developer who is enthusiastic to take on new problems.
+Proficient in building websites and applications with React and connected tools and libraries like Redux, React Router, Axios, and more.
 
-Reliable and collaborative, driven to build productive relationships with clients and colleagues. Eager to learn and contribute in any way possible.
+Primarily a front-end developer, positioning myself as a capable software developer who is enthusiastic to take on new problems.
+Eager to learn and contribute in any way possible.
+
+Reliable and collaborative, driven to build productive relationships with clients and colleagues.
 
 Active and engaged in contributing beyond core responsibilities by going the extra mile.
+
 
 #### Specializations
 
